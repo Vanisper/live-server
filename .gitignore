@@ -1,0 +1,6 @@
+build/bin
+frontend/wailsjs
+frontend/package.json.md5
+# frontend/pnpm-lock.yaml
+# frontend/*-lock.json
+# frontend/yarn.lock
